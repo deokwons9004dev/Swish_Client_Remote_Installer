@@ -1,0 +1,20 @@
+{
+  "name": "swish_clientrm_inst",
+  "version": "1.0.2",
+  "description": "Swish Remote Client Installer Package",
+  "main": "installer.js",
+  "dependencies": {
+    "async": "^2.6.0",
+    "colors": "^1.1.2",
+    "download-git-repo": "1.0.2",
+    "fs-extra": "^5.0.0",
+    "node-dir": "^0.1.17",
+    "pkg": "^4.3.0-beta.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
